@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://edycomltda.github.io/sitemap.xml
+Sitemap: https://edycom.cl/sitemap.xml

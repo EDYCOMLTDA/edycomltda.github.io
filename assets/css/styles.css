@@ -329,7 +329,7 @@ select.field{appearance:none;-webkit-appearance:none;padding-right:44px;backgrou
 .gallery__lead{max-width:42em;color:var(--ink-2);text-wrap:pretty}
 .tiles{margin-top:24px;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px}
 .tiles--portrait{margin-top:36px;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
-.tiles--plant{margin-top:clamp(48px,5vw,64px);grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.tiles--plant{margin-top:clamp(48px,5vw,64px);grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
 .tile{position:relative;display:block;aspect-ratio:1/1;max-width:100%;overflow:hidden;border-radius:var(--radius);background:var(--photo-bg);text-decoration:none!important}
 .tiles--portrait .tile{aspect-ratio:3/4}
 .tiles--plant .tile{aspect-ratio:4/5}
